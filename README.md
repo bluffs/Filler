@@ -12,5 +12,5 @@ $> make
 Example:
 $> ./filler_vm -f maps/map01 -p1 ./jyakdi.filler -p2 players/hcao.filler
 
-<img src="https://raw.githubusercontent.com/bluffs/Filler/master/screen_graphic.png">
 <img src="https://raw.githubusercontent.com/bluffs/Filler/master/screen_term.png">
+<img src="https://raw.githubusercontent.com/bluffs/Filler/master/screen_graphic.png">
